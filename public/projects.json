@@ -60,9 +60,9 @@
       "JavaScript"
     ],
     "image": "https://i.ibb.co.com/svhdvdHX/flood-donate.jpg",
-    "live": "https://a10-online-study.web.app",
-    "client_repo": "https://github.com/HabiburRahman02/a11_online_study_client",
-    "server_repo": "https://github.com/HabiburRahman02/a11_online_study_server",
+    "live": "https://donate-in-bangladesh.netlify.app/",
+    "client_repo": "https://github.com/asifmahmud1047/Donate-Bangladesh",
+    "server_repo": "https://github.com/asifmahmud1047/Donate-Bangladesh",
     "fade_direction": "left",
     "features": [
       "Charitable Donation Platform: An online system enabling users to donate to verified NGOs, disaster relief programs, educational funds, and healthcare initiatives in Bangladesh.",
