@@ -34,7 +34,38 @@
   },
 
   {
-    "id": 1,
+    "id": 2,
+    "name": "Gadget Heaven✨ - E-commerce Platform",
+    "description": "A modern e-commerce platform for gadget enthusiasts, offering a wide range of electronic devices and accessories. Used various features to provide a seamless shopping experience.",
+    "technologies": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React",
+      "React Router",
+      "React Rating Stars",
+      "FontAwesome Icons",
+      "Recharts (for statistics visualization)",
+      "React Toastify"
+    ],
+    "image": "https://i.ibb.co.com/ymMXYths/gadget-heaven.jpg",
+    "live": "https://gadget-heaven-platform.netlify.app/",
+    "client_repo": "https://github.com/asifmahmud1047/Gadget-Haven-E-commerce-Platform",
+    "server_repo": "https://github.com/asifmahmud1047/Gadget-Haven-E-commerce-Platform",
+    "fade_direction": "left",
+    "features": [
+      "Responsive Design: The website is fully responsive and works seamlessly across all device sizes.",
+      "Category Filtering: Users can browse products by categories such as computers, phones, smart watches, chargers, and power banks.",
+      "Shopping Cart System: Add products to cart, remove items, sort by price, and view total price. The cart has a maximum limit of $1000.",
+      "Wishlist Management: Save products for later, move items from wishlist to cart, and manage your wishlist items.",
+      "Persistent Data: Cart and wishlist data are stored in localStorage, ensuring data persists between sessions.",
+      "Interactive UI Elements: Toast notifications, active route indicators, and smooth animations enhance the user experience.",
+      "Statistics Page: View product prices and ratings in an interactive chart"
+    ]
+  },
+
+  {
+    "id": 3,
     "name": "BPL Dream11",
     "description": "A platform where users can select and buy players, including their details like name, country, and role. Users need to claim credit to buy players.",
     "technologies": [
@@ -60,7 +91,7 @@
   },
 
   {
-    "id": 2,
+    "id": 4,
     "name": "Peddy Pet Adoption Platform",
     "description": "A dynamic pet adoption platform where users can browse and adopt pets. This project showcases a fully responsive web application built to provide a seamless experience across all devices, allowing users to explore pets, view detailed information, and even adopt their new best friend. The platform is designed using modern web technologies, utilizing various APIs for fetching data dynamically.",
     "technologies": [
@@ -84,7 +115,7 @@
     ]
   },
   {
-    "id": 3,
+    "id": 5,
     "name": "Donate Bangladesh",
     "description": "A digital platform designed to facilitate seamless and secure donations for social causes, nonprofits, and emergency relief efforts across Bangladesh. Users can contribute to verified initiatives, track their donations, and receive updates on the impact of their contributions",
     "technologies": ["HTML", "CSS", "Tailwind", "JavaScript"],
@@ -96,22 +127,6 @@
     "features": [
       "Charitable Donation Platform: An online system enabling users to donate to verified NGOs, disaster relief programs, educational funds, and healthcare initiatives in Bangladesh.",
       "Cause Categories: Users can choose from diverse causes such as poverty alleviation, flood relief, education for underprivileged children, healthcare access, and animal welfare."
-    ]
-  },
-  {
-    "id": 4,
-    "name": "Rinterio - Design House",
-    "description": "A full range of interior design services, including residential and commercial design, space planning, furniture selection, color consultation, and project management. We tailor our services to meet the unique needs and preferences of each client.",
-    "technologies": ["HTML", "CSS", "Tailwind", "JavaScript"],
-    "image": "https://i.ibb.co.com/DfnNnFpz/rinterio.jpg",
-    "live": "https://rinterio-design-house.netlify.app/",
-    "client_repo": "https://github.com/asifmahmud1047/Rinterio",
-    "server_repo": "https://github.com/asifmahmud1047/Rinterio",
-    "fade_direction": "up",
-    "features": [
-      "Residential & Commercial Design Services: Expertise in designing homes, offices, retail spaces, and more, with a focus on functionality and aesthetics.",
-      "Tailored Design Solutions: Customized approaches to meet individual client needs, preferences, and budget constraints.",
-      "Structured Design Process: A phased workflow including consultation, concept development (mood boards, layouts, material selection), approval, and implementation."
     ]
   }
 ]
